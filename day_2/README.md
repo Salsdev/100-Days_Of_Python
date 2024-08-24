@@ -1,7 +1,4 @@
-
-# 100 Days of Code - The Complete Python Pro Bootcamp
-
-## Day 2: Understanding Data Types and Building a Tip Calculator
+# Day 2: Understanding Data Types
 
 ### Personal Reflections
 Today was an enriching exploration of Python data types, with practical applications that provided both challenge and deep learning opportunities. I tackled problems that not only tested my understanding of syntax but also demanded thoughtful problem-solving.
