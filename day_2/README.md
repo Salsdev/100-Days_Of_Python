@@ -7,7 +7,7 @@ Today was an enriching exploration of Python data types, with practical applicat
 
 - **Python Primitive Data Types**: Deepened my understanding of Python's basic data types.
 - **Exercises and Projects**: Applied the day’s lessons in three coding exercises:
-  - **Two-Digit Addition**
+  - **Mathematical Operations**
   - **BMI Calculator**
   - **Tip Calculator**
 
