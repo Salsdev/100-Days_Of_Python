@@ -55,4 +55,4 @@ This document summarizes the key Python concepts covered today, with practical e
    else:
        print("You lose!")
    ```
-Learning continues...
+The journey continues..
