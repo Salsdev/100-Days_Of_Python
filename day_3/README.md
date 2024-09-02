@@ -52,5 +52,4 @@ For the "Treasure Island" project, players navigate a text-based adventure influ
   ```
 
 ## Conclusion
-Day 3 was filled with practical exercises that tested my ability to use conditional statements and logical operators effectively. These exercises not only bolstered my problem-solving skills but also prepared me for more complex programming challenges. I look forward to continuing to build and share my coding journey..
-
+Day 3 was filled with practical exercises that tested my ability to use conditional statements and logical operators effectively. These exercises not only bolstered my problem-solving skills but also prepared me for more complex programming challenges. I look forward to continuing to build and share my coding journey.
