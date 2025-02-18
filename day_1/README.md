@@ -37,6 +37,7 @@ juice = "Milk"
 Creates a variable `juice` and assigns it the value Milk.
 
 ### 5. Variable Naming 🔤
+
 **Details:** Covered best practices for naming variables effectively.
 **Example:** 
 ```python
